@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/liamh/vsprojects/mctest",
-      "program": "c:/Users/liamh/vsprojects/mctest/build/Debug/outDebug",
+      "cwd": [],
+      "program": [],
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
